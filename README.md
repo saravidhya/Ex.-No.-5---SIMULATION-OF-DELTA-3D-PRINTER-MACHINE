@@ -35,7 +35,7 @@
 ![Screenshot 2024-01-03 010529](https://github.com/saravidhya/Ex.-No.-5---SIMULATION-OF-DELTA-3D-PRINTER-MACHINE/assets/87062069/12b2aebf-32c2-45ac-9614-7d6c438fede4)
 
 
-### Name: vidhiya lakshimi.S
+### Name: vidhiya lakshmi.S
 ### Register Number: 23012308
 
 ## Result: 
